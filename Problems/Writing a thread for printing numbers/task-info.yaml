@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "class NumbersThread extends Thread {\n\n    public NumbersThread(int from,\
+    \ int to) {\n        // implement the constructor\n    }\n\n    // you should\
+    \ override some method here                                                  \
+    \ \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2525#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2525#comment">JetBrains
+    Academy</a></html>
+  time: Sat, 28 Nov 2020 12:29:15 UTC
+record: -1

@@ -1,0 +1,17 @@
+life/GameOfLife.java
+ life.GameOfLife
+life/GameOfLifeModel.java
+ life.GameOfLifeModel
+life/view/ControlPanel.java
+ life.view.ControlPanel
+life/Main.java
+ life.Life
+ life.Main
+life/view/LifePanel.java
+ life.view.LifePanel
+life/GameOfLifeController.java
+ life.GameOfLifeController
+ life.GameOfLifeController$1
+ life.GameOfLifeController$State
+life/view/StatisticsPanel.java
+ life.view.StatisticsPanel

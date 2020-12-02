@@ -1,0 +1,1 @@
+/Users/admin/IdeaProjects/Game of Life/Problems/Safe converting/build/classes/java/main/Main.class

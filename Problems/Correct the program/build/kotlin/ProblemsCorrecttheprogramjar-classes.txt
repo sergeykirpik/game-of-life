@@ -1,0 +1,1 @@
+/Users/admin/IdeaProjects/Game of Life/Problems/Correct the program/build/classes/java/main/Main.class:/Users/admin/IdeaProjects/Game of Life/Problems/Correct the program/build/classes/java/main/Printer.class

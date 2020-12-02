@@ -1,0 +1,1 @@
+/Users/admin/IdeaProjects/Game of Life/Problems/Only true or false/build/classes/java/main/Primitive.class

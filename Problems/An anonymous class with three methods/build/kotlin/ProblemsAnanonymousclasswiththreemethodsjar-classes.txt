@@ -1,0 +1,1 @@
+/Users/admin/IdeaProjects/Game of Life/Problems/An anonymous class with three methods/build/classes/java/main/Main$1.class:/Users/admin/IdeaProjects/Game of Life/Problems/An anonymous class with three methods/build/classes/java/main/Main.class:/Users/admin/IdeaProjects/Game of Life/Problems/An anonymous class with three methods/build/classes/java/main/ThreeMethodsInterface.class
